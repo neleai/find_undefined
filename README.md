@@ -1,4 +1,6 @@
 find_undefined
 ==============
 
-Detects undefined behaviour in programs.
+Detects common types of undefined behaviour and performance problems in programs.
+
+
